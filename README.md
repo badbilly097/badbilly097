@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @badbilly097
-- 🎭 life is a game 
-- 🔱 I like hacker world it's my life
-- ♤anonymous♤ my group 
