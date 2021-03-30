@@ -1,5 +1,5 @@
 L/bin/bash
-#Author - github.com/anonymous
+#Author - github.com/badbilly097
 #Credit - Give Me Credit If You Use Any Part Of My Code
 trap 'printf "\n";stop;exit 1' 2
 
